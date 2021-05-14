@@ -1,8 +1,10 @@
 # Web-Scraping-using-Python
 
-Step 1: Used Beautiful Soup Library to scrap data form websites of Tesla and GameStop.
+Step 1: Used Beautiful Soup Library and learned about Web Scraping.
 
-Step 2: Used yfinance Library to plot the stock data of Tesla and GameStop that was scraped in Step 1.
+Step 2: Used yfinance Library to extarct the stock data of Tesla and GameStop.
+
+Step 3: Created a dashboard by visulaizing the stock data.
 
 This project is a part of the IBM Data Science Project Course on Coursera.
 
