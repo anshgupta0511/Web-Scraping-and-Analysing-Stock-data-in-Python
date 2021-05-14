@@ -4,6 +4,6 @@ Step 1: Used Beautiful Soup Library to scrap data form websites of Tesla and Gam
 
 Step 2: Used yfinance Library to plot the stock data of Tesla and GameStop that was scraped in Step 1.
 
-This problem is a solution to the peer graded assignment of IBM Data Science Project Course on Coursera.
+This project is a part of the IBM Data Science Project Course on Coursera.
 
 Link to Course: https://www.coursera.org/learn/python-project-for-data-science 
